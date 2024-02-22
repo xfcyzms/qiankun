@@ -1,5 +1,13 @@
 # qiankun
 
+## 3.0.0-rc.20
+
+### Patch Changes
+
+- Updated dependencies [9c56910]
+  - @qiankunjs/sandbox@0.0.1-rc.17
+  - @qiankunjs/loader@0.0.1-rc.20
+
 ## 3.0.0-rc.19
 
 ### Patch Changes

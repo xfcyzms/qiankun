@@ -1,5 +1,11 @@
 # @qiankunjs/sandbox
 
+## 0.0.1-rc.17
+
+### Patch Changes
+
+- 9c56910: feat: support addEventListener with once options to avoid memory leak
+
 ## 0.0.1-rc.16
 
 ### Patch Changes
